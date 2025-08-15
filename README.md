@@ -1,35 +1,37 @@
-Hi, I’m Sarah 👋
-I’m a Computer Science student at the University of Hertfordshire (going into my third year), passionate about building practical, real-world applications.
-I enjoy learning by doing. From small personal projects to team based university and internship work.
+👋 Hi, I’m Sarah Helal
+Second-year Computer Science student at the University of Hertfordshire, moving into my third year this September. I enjoy turning ideas into working, real-world projects — from small experiments to more complete applications.
 
-💻 What I’ve worked with so far:
+🛠 Skills & Tools
+Languages: C++, Python, C#, JavaScript, HTML, CSS
 
-Languages: C++, Python, HTML/CSS/JS, C# (.NET, EF Core)
+Frameworks & Libraries: .NET Core, Flask, Entity Framework Core, React (learning), Node.js (learning)
 
 Databases: MySQL, SQL Server
 
-Tools: Git/GitHub, Logisim, Flask
+Other: Git, GitHub, REST APIs
 
-Interests: Web development, database design, and system architecture, and exploring Artificial Intelligence (AI).
+📌 Projects
+(More details in my repositories)
 
-📌 Projects I’ve worked on:
+CityPulse – Web-based platform for discovering local events in Cairo using Flask and PredictHQ API.
 
-Tennis Quiz Website: Interactive quiz game using HTML/CSS/JS
+Smart Farming System – Python project for monitoring and managing crop environments.
 
-Cinema Booking System: C++ program for ticket booking and seat management
+Cinema Booking System – C++ application for seat booking and ticket management.
 
-10-bit CPU Design: Built from scratch in Logisim (ALU, registers, shifters, comparators, adders)
+Tennis Quiz Website – Small static quiz site about tennis sports.
 
-Smart Farming System: Python-based IoT simulation for monitoring crop conditions
+10-bit CPU Design – Built from scratch in Logisim (ALU, registers, shifters, comparators).
 
-More projects coming soon as I am currently working on a Smart University System
+🎯 Current Goals
+Build a Smart University System using React + Node.js.
 
-🌱 What I’m focusing on now:
+Apply AI concepts in future web platforms.
 
-Strengthening React skills for modern front-end development
+Continue improving full-stack skills by combining Flask, React, and .NET experience.
 
-Expanding full-stack project experience
+📬 Let’s Connect
+LinkedIn: Sarah Helal 
 
-Learning best practices for clean, maintainable code
+Email: Sarahhellalll@gmail.com
 
-📫 How to reach me: Sarahhellalll@gmail.com
