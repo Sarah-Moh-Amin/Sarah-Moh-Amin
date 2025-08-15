@@ -1,37 +1,53 @@
-👋 Hi, I’m Sarah Helal
-Second-year Computer Science student at the University of Hertfordshire, moving into my third year this September. I enjoy turning ideas into working, real-world projects — from small experiments to more complete applications.
+<div align="center">
 
-🛠 Skills & Tools
-Languages: C++, Python, C#, JavaScript, HTML, CSS
+# 🌟 **Sarah Helal** 🌟  
+### *Turning ideas into real-world solutions*  
+📍 Cairo, Egypt | 💻 Computer Science Student  
 
-Frameworks & Libraries: .NET Core, Flask, Entity Framework Core, React (learning), Node.js (learning)
+</div>  
 
-Databases: MySQL, SQL Server
+---
 
-Other: Git, GitHub, REST APIs
+## 👋 Hey there! I’m **Sarah Helal**  
+🎓 Second-year Computer Science student at the **University of Hertfordshire** (moving into my third year this September).  
+💡 I enjoy turning ideas into real, working projects — from small experiments to complete applications.  
 
-📌 Projects
-(More details in my repositories)
+---
 
-CityPulse – Web-based platform for discovering local events in Cairo using Flask and PredictHQ API.
+### 🛠 Skills & Tools  
 
-Smart Farming System – Python project for monitoring and managing crop environments.
+**Languages:**  
+`C++` `Python` `C#` `JavaScript` `HTML` `CSS`  
 
-Cinema Booking System – C++ application for seat booking and ticket management.
+**Frameworks & Libraries:**  
+`.NET Core` `Flask` `Entity Framework Core` `React (learning)` `Node.js (learning)`  
 
-Tennis Quiz Website – Small static quiz site about tennis sports.
+**Databases:**  
+`MySQL` `SQL Server`  
 
-10-bit CPU Design – Built from scratch in Logisim (ALU, registers, shifters, comparators).
+**Other:**  
+`Git` `GitHub` `REST APIs`  
 
-🎯 Current Goals
-Build a Smart University System using React + Node.js.
+---
 
-Apply AI concepts in future web platforms.
+### 📌 Projects  
+*(Find more details in my repositories)*  
 
-Continue improving full-stack skills by combining Flask, React, and .NET experience.
+- **CityPulse** – Web app for discovering local events in Cairo *(Flask + PredictHQ API)*  
+- **Smart Farming System** – Python project for monitoring & managing crop environments  
+- **Cinema Booking System** – C++ app for seat booking & ticket management  
+- **Tennis Quiz Website** – Static quiz site about tennis sports  
+- **10-bit CPU Design** – Built from scratch in Logisim *(ALU, registers, shifters, comparators)*  
 
-📬 Let’s Connect
-LinkedIn: Sarah Helal 
+---
 
-Email: Sarahhellalll@gmail.com
+### 🎯 Current Goals  
+- Build a **Smart University System** with React + Node.js  
+- Explore **AI** applications in future web platforms  
+- Keep improving full-stack skills by blending Flask, React, and .NET  
 
+---
+
+### 📬 Let’s Connect  
+📎 **LinkedIn:** [Sarah Helal](#)  
+✉️ **Email:** Sarahhellalll@gmail.com  
