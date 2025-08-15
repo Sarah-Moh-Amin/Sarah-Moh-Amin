@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 **Sarah Helal** 🌟  
+#  **Sarah Helal**  
 ### *Turning ideas into real-world solutions*  
 📍 Cairo, Egypt | 💻 Computer Science Student  
 
